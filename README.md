@@ -35,7 +35,7 @@ Projeto de um chat realizado em ReactJS com JavaScript, foi utilizado o firebase
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/chat_video.gif" />
+    <img src="github/chat-video.gif" />
 </h1>
 
 ## 🚀 Tecnologias
